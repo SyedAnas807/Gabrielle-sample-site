@@ -30,3 +30,25 @@ The site features a sophisticated dark-themed layout, elegant typography, and sm
 ├── styles.css       # Custom stylesheets
 ├── script.js        # JavaScript functionality
 └── README.md        # Project documentation
+
+🚀 How to Run
+Clone the repository
+
+Bash
+
+git clone [https://github.com/SyedAnas807/Ambrosia-Restaurant-Site.git](https://github.com/SyedAnas807/Ambrosia-Restaurant-Site.git)
+Navigate to the project directory
+
+Bash
+
+cd Ambrosia-Restaurant-Site
+Open index.html
+
+Simply double-click the index.html file to view it in your browser.
+
+Or use a live server extension (like Live Server in VS Code) for the best experience.
+
+👤 Author
+Syed Anas
+
+GitHub: @SyedAnas807
